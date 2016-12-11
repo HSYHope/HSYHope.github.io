@@ -1,0 +1,11 @@
+.result, .error {
+  display: none;
+}
+@import url('https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet');
+
+h1 {
+	font-family: 'Francois One', sans-serif;
+	color: #273746;
+}
+
